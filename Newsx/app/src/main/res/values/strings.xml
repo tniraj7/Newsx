@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Newsx</string>
+    <string name="news_title">The Dark Web Secrets of Law Firms | Aon</string>
+    <string name="news_subtitle">Sourcing note: This thought piece is based on research conducted by Aon’s Intelligence Group using subscription threat intelligence databases that monitor the dark web and invite-only hacker forums. Dark web auctions that sell backdoor access to law firm serv…</string>
+    <string name="news_source">Aon.com</string>
+    <string name="news_image_description">News Image</string>
+</resources>
