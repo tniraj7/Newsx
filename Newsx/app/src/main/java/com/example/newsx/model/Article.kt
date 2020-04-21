@@ -1,4 +1,4 @@
-package com.example.newsx.data
+package com.example.newsx.model
 
 data class Article(
     val author: String,
