@@ -1,5 +1,6 @@
 # Newsx
-A news reader Android App, made in Kotlin.
+
+## A news reader Android App, made in Kotlin.
 
 ### Preview Screens
 
